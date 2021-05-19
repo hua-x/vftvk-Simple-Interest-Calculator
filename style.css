@@ -3,9 +3,27 @@ h1{color:grey;font-family:verdana}
 .maindiv {
     background-color:white;
     color:black;
-    width:300px;
+    width:380px;
     padding:20px;
     border-radius:25px;
-    align:center
+    margin-left: 30px;
 }
 
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 160px;
+    text-align: left;
+}
+input {
+    display: inline-block;
+    float: left;
+    text-align: right;
+}
+
+select{
+    display: inline-block;
+    float: left;
+    text-align: right;
+}
