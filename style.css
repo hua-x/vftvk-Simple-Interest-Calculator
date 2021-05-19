@@ -8,7 +8,9 @@ h1{color:grey;font-family:verdana}
     border-radius:25px;
     margin-left: 30px;
 }
-
+.maindiv-sub{
+    margin-left: 60px;
+}
 label{
     display: inline-block;
     float: left;
